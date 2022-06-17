@@ -1,4 +1,4 @@
-package com.xk.leetcode.hard._224;
+package com.xk.leetcode.question.hard._224;
 
 import java.util.Deque;
 import java.util.LinkedList;
@@ -9,8 +9,6 @@ import java.util.LinkedList;
  */
 class Solution {
     public int calculate(String s) {
-        // 1 + 1
-        // 2 -1 + 2
         Deque<Integer> deque = new LinkedList<>();
         int i = 0;
         int n = s.length();

@@ -1,4 +1,4 @@
-package com.xk.leetcode.mid._532;
+package com.xk.leetcode.question.mid_532;
 
 import java.util.Arrays;
 import java.util.Iterator;

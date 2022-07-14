@@ -1,4 +1,4 @@
-package com.xk.leetcode.question.mid_416;
+package com.xk.leetcode.question.mid._416;
 
 class Solution {
     public boolean canPartition(int[] nums) {

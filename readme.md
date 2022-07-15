@@ -11,6 +11,7 @@ question
     mid  416
          532
          1049
+         474
     hard 1723
 
 sort 

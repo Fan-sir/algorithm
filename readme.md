@@ -12,6 +12,7 @@ question
          532
          1049
          474
+         152
     hard 1723
 
 sort 

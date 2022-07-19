@@ -23,7 +23,9 @@ sort
 
 template
 
-    ZeroOneBag
+    ZeroOneBag(零一背包)
+    multipleBag(多重背包)
+    completelyBag(完全背包)
 
 ### 未完成
 competition

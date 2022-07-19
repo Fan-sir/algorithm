@@ -1,4 +1,4 @@
-package com.xk.template.zeroOneBag;
+package com.xk.template.bag.zeroOneBag;
 
 public class Solution {
 
